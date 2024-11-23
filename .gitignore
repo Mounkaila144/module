@@ -1,0 +1,9 @@
+# Ignorer tout
+*
+
+# Ne pas ignorer les dossiers spécifiques
+!services_zapier/
+!personal_module/
+
+# Ne pas ignorer ce fichier .gitignore
+!.gitignore
