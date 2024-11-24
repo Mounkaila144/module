@@ -22,6 +22,6 @@ class services_zapier_addLeadAction extends mfAction
             exit;
         }
 
-        return json_encode(['success' => true, 'data' => $oauthRequest->request]);
+        return ['success' => true, 'data' => $oauthRequest->request];
     }
 }
