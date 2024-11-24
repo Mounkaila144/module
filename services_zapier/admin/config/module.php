@@ -8,6 +8,7 @@ return array(
     "token"=>array('mode'=>'json','always_access'=>true),
     "refreshToken"=>array('mode'=>'json','always_access'=>true),
     "resource"=>array('mode'=>'json','always_access'=>true),
+    "addLead"=>array('mode'=>'json','always_access'=>true),
     "ajaxDeleteClient"=>array('mode'=>'json'),
 
     "default"=>array(

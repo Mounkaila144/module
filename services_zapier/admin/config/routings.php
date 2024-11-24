@@ -18,6 +18,11 @@ return array(
         "module" => "services_zapier",
         "action" => "resource",
     ),
+ "services_zapier_addLead" => array("pattern" => '/add',
+        "module" => "services_zapier",
+        "action" => "addLead",
+    ),
+
  "services_zapier_refreshToken" => array("pattern" => '/refresh/token',
         "module" => "services_zapier",
         "action" => "refreshToken",
