@@ -11,6 +11,6 @@
         </ul>
 
 
-    <button type="submit" name="approve" value="yes" class="btn btn-success">Autoriser</button>
+    <button type="submit" name="approve" value="yes" class="btn btn-success test">Autoriser</button>
     <button type="submit" name="approve" value="no" class="btn btn-danger">Refuser</button>
 </form>
